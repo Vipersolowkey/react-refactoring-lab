@@ -1,0 +1,32 @@
+﻿export const people = [
+  {
+    id: "1",
+    name: "Nguyễn Minh Anh",
+    role: "Product Designer",
+    email: "minhanh@example.com",
+    location: "TP. Hồ Chí Minh",
+    team: "Design",
+    bio: "Thiết kế trải nghiệm đơn giản, dễ tiếp cận và hữu ích cho mọi người.",
+    initials: "MA",
+  },
+  {
+    id: "2",
+    name: "Trần Hoàng Nam",
+    role: "Frontend Developer",
+    email: "hoangnam@example.com",
+    location: "Đà Nẵng",
+    team: "Engineering",
+    bio: "Xây dựng giao diện web nhanh, linh hoạt và dễ bảo trì.",
+    initials: "HN",
+  },
+  {
+    id: "3",
+    name: "Lê Thu Hà",
+    role: "Project Manager",
+    email: "thuha@example.com",
+    location: "Hà Nội",
+    team: "Operations",
+    bio: "Kết nối đội ngũ và đưa những ý tưởng thành sản phẩm thực tế.",
+    initials: "TH",
+  },
+];
